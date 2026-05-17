@@ -1,0 +1,23 @@
+Sample Predictions Output
+=========================
+
+Message: I am checking if there is any scheduled maintenance today.
+True Sentiment: neutral
+Predicted Sentiment: positive
+----------------------------------------
+Message: The app experience is smooth and reliable. I appreciate the quick response.
+True Sentiment: positive
+Predicted Sentiment: positive
+----------------------------------------
+Message: Can you confirm whether my ticket has been assigned?
+True Sentiment: neutral
+Predicted Sentiment: positive
+----------------------------------------
+Message: I have raised multiple tickets but nobody has fixed the problem. My ticket number is 88027.
+True Sentiment: negative
+Predicted Sentiment: positive
+----------------------------------------
+Message: Billing is incorrect and I was charged twice this month.
+True Sentiment: negative
+Predicted Sentiment: positive
+----------------------------------------
